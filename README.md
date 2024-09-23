@@ -9,7 +9,7 @@
 
 # CAN4red&CloseCurlyQuote;s GitHub
 
-## About me
+## 🐟 About me
 
 I am Alexander Isupov, a Computer Science student at Innopolis University.
 
