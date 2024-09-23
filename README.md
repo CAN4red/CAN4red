@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/CAN4red/CAN4red/blob/main/res/android_banner.gif)]()
+<img src="https://github.com/CAN4red/CAN4red/blob/main/res/android_banner.gif" width="550px"/>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -7,9 +7,11 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# Alexander Isupov
+# CAN4red&CloseCurlyQuote;s GitHub
 
-A Computer Science student at Innopolis University
+## About me
+
+I am Alexander Isupov, a Computer Science student at Innopolis University.
 
 ## 📫 Contacts
 
