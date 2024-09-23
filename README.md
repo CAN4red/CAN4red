@@ -1,16 +1,21 @@
-## Hi there 👋
+[![MasterHead](https://github.com/CAN4red/CAN4red/blob/main/res/android_banner.gif)]()
 
-<!--
-**CAN4red/CAN4red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="left">Alexander Isupov</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<h2 align="left">Second-year student of Innopolis University</h2>
+
+<h2 align="left">📫 Contacts</h2>
+
+<ul>
+    <li>Telegram: <a href="https://t.me/can4red" target="_blank">@can4red</a></li>
+    <li>Mail: <a href="mailto:CAN4red@yandex.ru">CAN4red@yandex.ru</a></li>
+    <li>Instagram: <a href="https://www.instagram.com/can4red" target="_blank">can4red</a></li>
+</ul>
