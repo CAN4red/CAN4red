@@ -1,8 +1,5 @@
 [![MasterHead](https://github.com/CAN4red/CAN4red/blob/main/res/android_banner.gif)]()
 
-
-<h1 align="left">Alexander Isupov</h1>
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -10,12 +7,11 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="left">Second-year student of Innopolis University</h2>
+# Alexander Isupov
 
-<h2 align="left">📫 Contacts</h2>
+A Computer Science student at Innopolis University
 
-<ul>
-    <li>Telegram: <a href="https://t.me/can4red" target="_blank">@can4red</a></li>
-    <li>Mail: <a href="mailto:CAN4red@yandex.ru">CAN4red@yandex.ru</a></li>
-    <li>Instagram: <a href="https://www.instagram.com/can4red" target="_blank">can4red</a></li>
-</ul>
+## 📫 Contacts
+
+- Telegram: [@can4red](https://t.me/can4red)
+- Mail: [CAN4red@yandex.ru](mailto:CAN4red@yandex.ru)
